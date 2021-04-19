@@ -1,0 +1,10 @@
+This document is a report containing CNN (Machine Learning) models used to identify whether an individual's RX is normal or has signs of either Pneumonia or Covid-19.
+I'll start by using simple models and then I'll combine them with larger models through Transfer Learning.
+
+The dataset contains:
+Total RX: 3886
+Covid-19: 1200
+Normal: 1341
+Pneumonia: 1345
+
+20% of these are used as test data. Respectively: COVID 240, NORMAL 269, PNEUMONIA 269.
