@@ -1,0 +1,2 @@
+This repository contains a notebook with different ML models for identifying tweets containing real and fake news about Covid-19.
+Most of the models in the notebook use Recurrent Neural Networks for sequential data. Both LSTM and GRU layers are present.
